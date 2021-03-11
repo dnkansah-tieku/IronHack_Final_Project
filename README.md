@@ -9,7 +9,7 @@
 
 *[Dennis Nkasnah-Tieku]*
 
-*[Data Analytics, Berlin & 11.03.2021]*
+*[Data Analytics, Berlin, 11.03.2021]*
 
 
 ## Project Description
@@ -19,10 +19,10 @@ Dataset
 The data was used during a module course work at the SGGW Poland. The data is coming from a few thousand stands located in some forest districts in the country. 
 
 Data Cleaning
-Data cleaning processes undertook 
-The adress_forest was dropped because this will not play an important role in the prediction
-The species_rank_order was also dropped since this contains only one unique value
-Species_storey was also droppped since the information was almost the same as given by stand_structure 
+- Series of data processes were undertaken in the various columns to standardized the format
+- The adress_forest was dropped because this will not play an important role in the prediction
+- The species_rank_order was also dropped since this contains only one unique value
+- Species_storey was also droppped since the information was almost the same as given by stand_structure 
 
 **Analysis** 
 
@@ -37,5 +37,5 @@ Species_storey was also droppped since the information was almost the same as gi
 - Model validation
 
 Conclusion
-Height and basal area are the best predictions.
-It was an interesting observation that species age did not have much influence on the volume of wood product of the tree species. 
+- Height and basal area are the best predictions.
+- It was an interesting observation that species age did not have much influence on the volume of wood product of the tree species. 
